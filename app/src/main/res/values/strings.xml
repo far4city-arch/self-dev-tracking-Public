@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المتابعة والتطوير الذاتي</string>
+    <string name="notification_channel_name">تنبيهات المتابعة اليومية</string>
+    <string name="notif_morning_reminder">حان وقت إجراءات المتابعة الصباحية</string>
+    <string name="notif_visual_reminder">تذكير: راجع مهامك في الشاشة الرئيسية</string>
+    <string name="notif_noon_reminder">تذكير الظهيرة لمتابعة التطوير الذاتي</string>
+</resources>
